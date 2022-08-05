@@ -5,7 +5,7 @@ README.md
 
 
 ## I'm a Python developer!!
-- Currently studying at [B.S.Abdur rahman institute of science and technology][collage]
+- Currently studying at **[B.S.Abdur rahman institute of science and technology][collage]
 
 - 🔭 Check out my HackerRank profile [HackerRank Id][Hacker]!
 - 🌱 I’m currently learning AI
